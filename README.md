@@ -1,3 +1,4 @@
 # test
 test
-![img](https://raw.githubusercontent.com/.../malicious.zip)
+
+![img](https://raw.githubusercontent.com/.../test.zip)
